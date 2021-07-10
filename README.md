@@ -5,7 +5,7 @@
 - Swift <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" height="16px" width="16px">
 - Python <img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" height="20px" width="16px">
 ## 📫 How to reach me
-You can reach me at the [email](mailto:mixail.bokov9@gmail.com) in my github profile.
+You can reach me at the email in my github profile.
 ### My socials:
 - [VK](https://vk.com/datmc) <img src="https://m.vk.com/images/icons/favicons/fav_logo_2x.ico?8" height="16px" width="16px"> 
 <img src="assets/gifs/1.gif" width="256"/>
