@@ -8,7 +8,6 @@
 You can reach me at the email in my github profile.
 ### My socials:
 - [VK](https://vk.com/datmc) <img src="https://m.vk.com/images/icons/favicons/fav_logo_2x.ico?8" height="16px" width="16px"> 
-<img src="assets/gifs/1.gif" width="256"/>
 <!--
 **dat-mc/dat-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
