@@ -1,13 +1,13 @@
 # Hi there 👋🏻
 ## 🔖 About me
+- 👨🏻‍💻 Back-End Web Developer
 - 🎓 Studying Computer Science at [Siberian State Industrial University](https://www.sibsiu.ru/)
 ## 🌱 I'm currently learning
-- Swift <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" height="16px" width="16px">
-- Python <img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" height="20px" width="16px">
+<img src="https://www.php.net/images/php8/logo_php8.svg" height="50px" width="50px">&emsp;<img src="https://nodejs.org/static/images/logo.svg" height="50px" width="50px">&emsp;<img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" height="40px" width="34px">
 ## 📫 How to reach me
-You can reach me at the email in my github profile.
-### My socials:
-- [VK](https://vk.com/datmc) <img src="https://m.vk.com/images/icons/favicons/fav_logo_2x.ico?8" height="16px" width="16px"> 
+You can reach me at&emsp;<img src="https://telegram.org/img/t_logo.svg?1" height="26px" width="26px">@datmc666
+## 💬 My socials
+<a href="https://vk.com/datmc"><img src="https://m.vk.com/images/icons/favicons/fav_logo_2x.ico?8" height="30px" width="30px"></a>
 <!--
 **dat-mc/dat-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
