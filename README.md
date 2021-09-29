@@ -7,7 +7,7 @@
 ## 📫 How to reach me
 You can reach me at&emsp;<img src="https://telegram.org/img/t_logo.svg?1" height="26px" width="26px">@datmc666
 ## 💬 My socials
-<a href="https://vk.com/datmc"><img src="https://m.vk.com/images/icons/favicons/fav_logo_2x.ico?8" height="30px" width="30px"></a>
+<a href="https://vk.com/datmc" target="_blank"><img src="https://m.vk.com/images/icons/favicons/fav_logo_2x.ico?8" height="30px" width="30px"></a>
 <!--
 **dat-mc/dat-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
